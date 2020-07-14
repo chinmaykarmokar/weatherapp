@@ -9,8 +9,8 @@ class WeekContainer extends Component{
     }
 
     componentDidMount = () => {
-        
-    	const weatherURL = "https://api.openweathermap.org/data/2.5/forecast?q=Mumbai&units=metric&appid=234cd5e4b17111772bb2c1bba23a975a"
+        const API_KEY = process.env.REACT_APP_WEATHER_API_KEY;
+    	const weatherURL = `https://api.openweathermap.org/data/2.5/forecast?q=Mumbai&units=metric&appid=${API_KEY}`
 		
 		fetch(weatherURL)
 		    .then(res => res.json())
