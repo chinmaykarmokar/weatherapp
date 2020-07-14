@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/chinmaykarmokar/weatherapp.git/static/css/main.add9bbe1.chunk.css",
+    "main.js": "/chinmaykarmokar/weatherapp.git/static/js/main.ad7412fe.chunk.js",
+    "main.js.map": "/chinmaykarmokar/weatherapp.git/static/js/main.ad7412fe.chunk.js.map",
+    "runtime-main.js": "/chinmaykarmokar/weatherapp.git/static/js/runtime-main.dc899266.js",
+    "runtime-main.js.map": "/chinmaykarmokar/weatherapp.git/static/js/runtime-main.dc899266.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/chinmaykarmokar/weatherapp.git/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.838a5772.chunk.js": "/chinmaykarmokar/weatherapp.git/static/js/2.838a5772.chunk.js",
+    "static/js/2.838a5772.chunk.js.map": "/chinmaykarmokar/weatherapp.git/static/js/2.838a5772.chunk.js.map",
+    "index.html": "/chinmaykarmokar/weatherapp.git/index.html",
+    "precache-manifest.6affc8a70cec6fb3a4854df48a3adf64.js": "/chinmaykarmokar/weatherapp.git/precache-manifest.6affc8a70cec6fb3a4854df48a3adf64.js",
+    "service-worker.js": "/chinmaykarmokar/weatherapp.git/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/chinmaykarmokar/weatherapp.git/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.add9bbe1.chunk.css.map": "/chinmaykarmokar/weatherapp.git/static/css/main.add9bbe1.chunk.css.map",
+    "static/js/2.838a5772.chunk.js.LICENSE.txt": "/chinmaykarmokar/weatherapp.git/static/js/2.838a5772.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/chinmaykarmokar/weatherapp.git/static/media/nature.5f600f2f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc899266.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.838a5772.chunk.js",
+    "static/css/main.add9bbe1.chunk.css",
+    "static/js/main.ad7412fe.chunk.js"
+  ]
+}
